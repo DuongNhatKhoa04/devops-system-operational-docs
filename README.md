@@ -1,7 +1,20 @@
-# DevOps Operational Documentation
+# DevOps Operational Documentation Portfolio
+
+---
+**Author:** Vox  
+**Version:** 1.0.0  
+**Created At:** 2026-01-08
+---
+
+## Document Control
+
+| Version | Date       | Author | Description |
+|--------|------------|--------|-------------|
+| 1.0.0  | 2026-01-08 | Vox    | Initial creation |
+
 
 ## 1. Purpose
-This repository serves as a **personal professional** documenting my
+This repository serves as a **personal professional portfolio** documenting my
 continuous self-development journey in **DevOps, system operations, security,
 and quality management**, following **enterprise and ISO-aligned practices**.
 
@@ -116,7 +129,7 @@ This documentation repository is designed to complement, not replace:
 - Infrastructure-as-Code repositories
 - CI/CD configuration repositories
 
-Links to related repositories may be added as the evolves.
+Links to related repositories may be added as the portfolio evolves.
 
 ## 9. Long-Term Vision
 This repository is part of a long-term professional roadmap:
