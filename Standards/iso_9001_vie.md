@@ -1,11 +1,5 @@
 # ISO 9001 – Hệ thống Quản lý Chất lượng (QMS)
 
----
-**Author:** Vox  
-**Version:** 1.0.0  
-**Created At:** 2026-01-08
----
-
 ## Document Control
 
 | Version | Date       | Author | Description |
